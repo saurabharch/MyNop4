@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Bartercard",
+  "FriendlyName": "Bartercard Search",
+  "SystemName": "Bartercard.Search",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.00" ],
+  "Author": "Bartercard team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Bartercard.Search.dll",
+  "Description": "This plugin allows you to use elastic search"
+}
